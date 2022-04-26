@@ -1,0 +1,16 @@
+I:\Gencodes\Wella_dev\wella_4\bin\Debug\net5.0\wella_4.exe
+I:\Gencodes\Wella_dev\wella_4\bin\Debug\net5.0\wella_4.deps.json
+I:\Gencodes\Wella_dev\wella_4\bin\Debug\net5.0\wella_4.runtimeconfig.json
+I:\Gencodes\Wella_dev\wella_4\bin\Debug\net5.0\wella_4.runtimeconfig.dev.json
+I:\Gencodes\Wella_dev\wella_4\bin\Debug\net5.0\wella_4.dll
+I:\Gencodes\Wella_dev\wella_4\bin\Debug\net5.0\ref\wella_4.dll
+I:\Gencodes\Wella_dev\wella_4\bin\Debug\net5.0\wella_4.pdb
+I:\Gencodes\Wella_dev\wella_4\obj\Debug\net5.0\wella_4.csproj.AssemblyReference.cache
+I:\Gencodes\Wella_dev\wella_4\obj\Debug\net5.0\wella_4.GeneratedMSBuildEditorConfig.editorconfig
+I:\Gencodes\Wella_dev\wella_4\obj\Debug\net5.0\wella_4.AssemblyInfoInputs.cache
+I:\Gencodes\Wella_dev\wella_4\obj\Debug\net5.0\wella_4.AssemblyInfo.cs
+I:\Gencodes\Wella_dev\wella_4\obj\Debug\net5.0\wella_4.csproj.CoreCompileInputs.cache
+I:\Gencodes\Wella_dev\wella_4\obj\Debug\net5.0\wella_4.dll
+I:\Gencodes\Wella_dev\wella_4\obj\Debug\net5.0\ref\wella_4.dll
+I:\Gencodes\Wella_dev\wella_4\obj\Debug\net5.0\wella_4.pdb
+I:\Gencodes\Wella_dev\wella_4\obj\Debug\net5.0\wella_4.genruntimeconfig.cache
